@@ -1,0 +1,10 @@
+# Ignore compiled Java class files
+*.class
+bin/
+
+# Ignore VSCode settings (optional)
+.vscode/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
